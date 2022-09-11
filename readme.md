@@ -19,6 +19,8 @@ Game where you control a paddle with the arrow keys to bounce a ball up to break
 2. Go into the repo's folder
 3. Open index.html
 
+This app is live here: [Click Here](https://breakout-07.netlify.app/)
+
 ## Contributions
 
 This project is absolutely accepting pull requests (first-timers welcome!). Feel free to report bugs and suggest features by opening a new issue. 
